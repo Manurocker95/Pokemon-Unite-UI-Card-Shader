@@ -3,4 +3,4 @@ Replica of Pokémon Unite's card shader for Built-in Render Pipeline
 
 You still need the original images to achieve the following effect:
 
-![Final Result](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e882a30a-012e-476b-be99-5af57eaba6bd/djt48ic-d913e825-37fc-47fc-9194-77e80b466c4e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ODJhMzBhLTAxMmUtNDc2Yi1iZTk5LTVhZjU3ZWFiYTZiZFwvZGp0NDhpYy1kOTEzZTgyNS0zN2ZjLTQ3ZmMtOTE5NC03N2U4MGI0NjZjNGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gP5GEXAX_Lt4PRpkVmYTS47l27Zsyxs1xFBw7uEl6Ss)
+![Final Result](https://i.imgur.com/tptLtFz.gif)
